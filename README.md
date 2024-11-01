@@ -44,15 +44,15 @@ List the contents of the "MyLab" directory.
 
 
 ### COMMAND AND OUTPUT
+![image](https://github.com/user-attachments/assets/997d16a7-5b62-439f-ae12-71110b338519)
 
-![image](https://github.com/user-attachments/assets/29497d6e-478f-4d85-ab7b-fce449cdeea6)
 
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 
 ### COMMAND AND OUTPUT
+![image](https://github.com/user-attachments/assets/a3cce3d6-f8b2-4916-8751-22b1af6bf2f5)
 
-![image](https://github.com/user-attachments/assets/39586b4e-72d4-4bea-9fdf-c068791f53a1)
 
 
 Move the "MyLab" directory to the "Documents" folder.
